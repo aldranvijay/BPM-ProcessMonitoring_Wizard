@@ -1,5 +1,5 @@
 # BPM-ProcessMonitoring_Wizard
-This is a report designng and viewing web application with clean and easy console
+This module has been removed from Git.
 
 Author: Ranvijay Singh
 Email : ald.ranvijay@gmail.com
